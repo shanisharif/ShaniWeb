@@ -1,10 +1,18 @@
 # Site settings
-title: Shani Sharif
-email: shani.sharif@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Shani Sharif personal website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://shanisharif.com" # the base hostname & protocol for your site
+#title: Shani Sharif
+#email: shani.sharif@gmail.com
+#description: > # this means to ignore newlines until "baseurl:"
+#  Shani Sharif personal website.
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://shanisharif.com" # the base hostname & protocol for your site
+
+port: 3000
+lsi: false
+permalink: /:year/:month/:day/:title.html
 
 # Build settings
 markdown: kramdown
+
+# Since GH pages override this to "true", we test this value to see if we are running locally
+safe: false
+include: [".well-known"]
