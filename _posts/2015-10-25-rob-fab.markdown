@@ -1,0 +1,23 @@
+---
+title: "Roboric Fabrication Spring 2016"
+layout: post
+photo_url: "/pic/KR120-cover.jpg"
+---
+
+I will be teaching the Robotic Fabrication course in Fall 2016 at GaTech Digital Fabrication Lab for architecture and industrial design graduate students. This is the first time that this course is being offered as we recently got a [Kuka KR 120](http://www.kuka-robotics.com/usa/en/products/industrial_robots/high/pro/kr120_r2500_pro/) for our lab.  and the last couple of months I have been busy developing the syllabus and course materials. I am so excited for the start of the semester. 
+
+Here is a short description of the course:
+
+##Introduction to Robotic Fabrication (ARCH 8863 – SS)	 
+
+<img src="/pic/KR120.jpg" width="40%" align="right">
+Over the last decade, architects and designers have started to engage industrial robots as tools for creative integration of design, fabrication, and assembly. Robots are multi-functional and reconfigurable fabrication tools that can be programmed to perform different tasks from subtractive machining to automated assembly. In contrast with typical digital fabrication processes, robotic tools allow designers to develop processes of production which are specific to the performative requirements of the design, without being limited by standardized CNC tools. The new research on the potentials of robotic fabrication provides the chance for designers to reassess and potentially redefine the relationship between design and production. 
+This course is a hands-on introduction to robotic fabrication, using Kuka Robot (KR Quantec Pro) at the Digital Fabrication Lab. Students will learn to program the robot to move, create custom tools for use with the robots, understand the capabilities and constraints of working with these tools, and how to integrate these in their designs. The class is consisted of both lecture and lab session. In the lecture sessions, the students will learn about different types of industrial robots (serial, parallel, mobile), the mathematics and mechanics of their control (position/rotation, time/motion), and programming the robot (Kuka Programming language KRL, and Kuka|prc). In the lab sessions students will work in small groups to develop their own design projects. For each project, students will explore the potentials of robotic fabrication by developing their own custom end-effectors and fabrication methods for the robot. 
+
+Prerequisites: 
+Prior experience and skills in the following topics are desired 
+
+- 3D modeling (Rhino, Revit, AutoCAD)
+- Parametric modeling (either Grasshopper or Dynamo)
+- Scripting skills (such as Rhino Script, coding in Grasshopper or Dynamo, Python, …) 
+- Digital fabrication (such as ARCH 6506 Materials/Fabrications)

@@ -1,0 +1,23 @@
+---
+title: "CAADRIA 2015 Korea"
+layout: post
+description: "I presented my paper *Design Cognition Shift from Craftsman to Digital Maker* at CAADRIA 2015 conference which was held in Korea. Great conference, smart people and amazing country."
+---
+
+
+I just came back from CAADRIA 2015 conference that was held in Kyungpook National University, Daegu, Korea. I presented my paper, "Design Cognition Shift from Craftsman to Digital Maker". 
+
+![presenting the paper](/pic/caadria1.jpg)
+
+
+This is my paper abstract if you are interested to read a little bit more:
+
+<p style="margin-right:50px; margin-left:50px; font-style:italic;"> The process of design and fabrication involves a complex cognitive activity, in which the human brain is part of a larger cogni-tive system that encompasses brain, body, tool, material and environ-ment. In this system the cognition resides in the interaction of all these elements one with another in different stages of a design and making activity. This paper investigates the intermediary role of digital fabri-cation machines in changing the discourse of design cognition in rela-tion to the action of making, inquiring into the diverging path from traditional craftwork. This research is shaped around the concept of transparent machine tools for an interactive participation in the pro-cess of design-making, shaping a human-machine interaction to unify the design and fabrication process. </p>
+
+You can access the full paper from [comunicad](http://cumincad.scix.net/cgi-bin/works/Show?caadria2015_208) or [academia](https://www.academia.edu/13429131/Design_Cognition_Shift_from_Craftsman_to_Digital_Maker).
+
+![korean style pic](/pic/caadria2.jpg)
+
+Korea is a wonderful country. We spend about 10 days in Seoul and Daegu, visited historic sites, modern architecture and obviously tried lots of authentic food. We also visited Professor Jin-kook Lee's research lab at Hanyang University in Seoul. Professor Lee is graduate of Georgia Tech's Design Computation PhD program. We had a special workshop for his students last year in Georgia Tech, and I taught courses on digital fabrication, scription and process modeling to the students. I met with the students again in Seoul, below in the picture.
+
+![around Seoul and Daegu](/pic/caadria3.jpg)

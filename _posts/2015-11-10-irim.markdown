@@ -1,0 +1,8 @@
+---
+title: "Collaboration with Gatech IRIM"
+layout: post
+description: "Our Digital Fabrication Lab has started a new collaboration with Gatech's Institute for Robotics and Intelligent Machines (IRIM) and the main topic of our research is **Human Robot Collaboration for Creative and Integrated Design and Fabrication Processes.** "
+---
+
+<img src="/pic/irim.jpg" width="35%" align="right">
+Our [Digital Fabrication Lab](http://www.dbl.gatech.edu/dfl/home) has started a new collaboration with Gatech's [Institute for Robotics and Intelligent Machines (IRIM)](http://robotics.gatech.edu) and Professor [Larry Sweet](http://robotics.gatech.edu/team/faculty/sweet). The main topic of research is **Human Robot Collaboration for Creative and Integrated Design and Fabrication Processes.** Human-Robot collaboration and intelligent feedback systems for robotic fabrication is the core of this project.
