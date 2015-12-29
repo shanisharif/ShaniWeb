@@ -17,4 +17,3 @@ You can find me on a variety of websites:
 - [Linkedin](https://www.linkedin.com/in/shani-sharif-0510825) — a good way to make contact
 - [Academia](https://gatech.academia.edu/ShaniSharif) — access to recent papers
 - [Instagram](https://www.instagram.com/shanisharif/) — daily life
-- [Facebook](https://www.facebook.com/shani.sharif) — for friends
