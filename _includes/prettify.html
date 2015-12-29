@@ -1,9 +1,5 @@
 <script>
-  // curry pre < code to be able to get prettified
-  // If the first line is
-  //   #!-langname\n
-  // Then that line is removed from the code and "langname" is given to prettify.
-  // If "langname" is "none", that prettify is not applied at all.
+
   var n,i,L,cn,lang,v = document.getElementsByTagName('pre');
   var m,lang_re = /^#\!-([a-zA-Z0-9_-]+)\n/;
   for (i=0,L=v.length;i<L;++i) {
