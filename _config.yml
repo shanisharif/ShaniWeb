@@ -1,10 +1,10 @@
 # Site settings
-#title: Shani Sharif
+title: Shani Sharif
 #email: shani.sharif@gmail.com
 #description: > # this means to ignore newlines until "baseurl:"
 #  Shani Sharif personal website.
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://shanisharif.com" # the base hostname & protocol for your site
+url: "http://shanisharif.com" # the base hostname & protocol for your site
 
 port: 3000
 lsi: false
