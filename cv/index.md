@@ -3,8 +3,6 @@ layout: dirindex
 title: Shani Sharif - CV
 ---
 
-
-
 ###Education
 **Georgia Institute of Technology**, School of Architecture, Atlanta, GA 
 <br/> *PhD in Architecture, Design Computation* (2011-present)
@@ -17,6 +15,8 @@ title: Shani Sharif - CV
 
 **University of Tehran**, Department of Fine Arts, Tehran, Iran 
 <br/>*Bachelor of Architecture (BArch)* (1999-2004)
+
+-----
 
 ###Research
 **[Building Information Modeling for Masonry (BIM-M)](http://www.bimformasonry.org)**, Georgia Tech, Digital Building Laboratory <br/>(PI: Prof. Russell Gentry)
@@ -36,10 +36,14 @@ title: Shani Sharif - CV
 
 **[Digital Design and Fabrication Group](https://ddf.mit.edu)**, MIT, Department of Architecture <br/>*Research Assistant* (2008 - 2009)
 
+-----
 
 ###Teaching
 **Robotic Fabrication**, Georgia Institute of Technology
 <br/>*Course Instructor* (Spring 2016)
+
+**Digital Design and Fabrication Workshop**, [Hanyang University](http://www.hanyang.ac.kr/english/) (Korea) and Georgia Tech
+<br/>*Workshop Instructor* (Summer 2014): Design scripting, digital fabricaion, process modeling
 
 **Construction Materials, Systems and Fabrication**, Georgia Institute of Technology
 <br/>*Course Instructor* (Fall 2013)
@@ -50,6 +54,8 @@ title: Shani Sharif - CV
 **Senior Undergraduate Design Studio**, Wentworth Institute of Technology, Boston, MA 
 <br/>*Adjunct Professor* (Summer 2011)
 
+-----
+
 ###Professional Experience
 
 **Design Core [4s] Architects**, Tehran, Iran 
@@ -57,6 +63,8 @@ title: Shani Sharif - CV
 
 **Atec Consultants**, Tehran, Iran Project Architect
 <br/>*Project Architect*, (2005 - 2006)
+
+-----
 
 ###Publications
 - Sharif, Shani; Gentry, Russll (2015). *BIM for Masonry: Development of BIM Plugins for the Masonry Unit Database.* Real Time - Proceedings of the 33rd Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe 2015), Vienna, Austria   ([Link](http://cumincad.scix.net/cgi-bin/works/Show?_id=ecaade2015_261))
@@ -77,6 +85,17 @@ title: Shani Sharif - CV
 
 - Sharif, Shani. (2010). *The Confluence of Digital Design/Fabrication and Biological Principles: Systematic knowledge transfer for the development of integrated architectural systems.* (Master's), Massachusetts Institute of Technology.   ([Link](http://dspace.mit.edu/handle/1721.1/61560))
 
+-----
 
+###Skills:
+- **Programming:** Java, C#, Python, SQL, Matlab
+- **Scripting:** Rhino Script, Processing, Arduino
+- **Parametric modeling:** Dynamo, Grasshopper
+- **Web development:** HTML, Microsoft .NET and MS SQL Server
+- **CAD and BIM:** Revit, AutoCAD, Rhino, 3D Max, SketchUp
+- **Graphic and video:** Adobe Photoshop and Illustrator, Final Cut Pro, MS Office
+- **Digital Fabrication and CAM:** Kuka industrial robots (KR C4), CNC milling, Water-jet cutter, Plasma cutter, laser cutter, AlphaCAM 
+
+-----
 
 **Download CV in [PDF](ShaniSharif_CV_2015.pdf)**
