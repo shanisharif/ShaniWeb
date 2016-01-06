@@ -8,7 +8,7 @@ description: "Masonry Unit Database (MUD) is an integral part of Building Inform
 
 - Sharif, Shani; Gentry, Russll (2015). *BIM for Masonry: Development of BIM Plugins for the Masonry Unit Database.* Real Time - Proceedings of the 33rd Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe 2015), Vienna, Austria   ([Link](http://cumincad.scix.net/cgi-bin/works/Show?_id=ecaade2015_261))
 
-- Sharif, Shani; Gentry, Russell; Eastman, Chuck; Elder, Jeff. (2015). *Masonry Unit Database Development for BIM-Masonry.* Proceedings of the 12th North American Masonry Conference, Denver, Colorado.
+- Sharif, Shani; Gentry, Russell; Eastman, Chuck; Elder, Jeff. (2015). *Masonry Unit Database Development for BIM-Masonry.* Proceedings of the 12th North American Masonry Conference, Denver, Colorado. ([PDF](Masonry_Unit_Database_Development_for_BI.pdf))
 
-- Witthuhn, Tyler; Sharif, Shani; Gentry, Russell; Elder, Jeff. (2014). *Masonry Product Models for Building Information Modeling.* Proceedings of the 9th International Masonry Conference, Guimarães, Portugal.
+- Witthuhn, Tyler; Sharif, Shani; Gentry, Russell; Elder, Jeff. (2014). *Masonry Product Models for Building Information Modeling.* Proceedings of the 9th International Masonry Conference, Guimarães, Portugal. ([PDF](Masonry_Product_Models_for_Building_Info.pdf))
 

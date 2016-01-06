@@ -3,6 +3,7 @@ layout: dirindex
 title: Projects
 ---
 - [BIM for Masonry: Masonry Unit Database - 2012-2015](/2015/09/20/mud.html)
+[<img src="/pic/mud1.jpg" width="100%">](/2015/09/20/mud.html)
 
 -----
 - [Mobile Robots and Perception - 2015](/2010/05/05/blossoms.html)
