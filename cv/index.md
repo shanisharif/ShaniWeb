@@ -63,9 +63,9 @@ title: Shani Sharif - CV
 
 - Sharif, Shani; Gentry, Russell (2015). *Design Cognition Shift from Craftsman to Digital Maker.* Emerging Experience in Past, Present and Future of Digital Architecture, Proceedings of the 20th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2015), Daegu, Korea.   ([Link](http://cumincad.scix.net/cgi-bin/works/Show?_id=caadria2015_208))
 
-- Sharif, Shani; Gentry, Russell; Eastman, Chuck; Elder, Jeff. (2015). *Masonry Unit Database Development for BIM-Masonry.* Proceedings of the 12th North American Masonry Conference, Denver, Colorado.
+- Sharif, Shani; Gentry, Russell; Eastman, Chuck; Elder, Jeff. (2015). *Masonry Unit Database Development for BIM-Masonry.* Proceedings of the 12th North American Masonry Conference, Denver, Colorado. ([PDF](Masonry_Unit_Database_Development_for_BI.pdf))
 
-- Witthuhn, Tyler; Sharif, Shani; Gentry, Russell; Elder, Jeff. (2014). *Masonry Product Models for Building Information Modeling.* Proceedings of the 9th International Masonry Conference, Guimarães, Portugal.
+- Witthuhn, Tyler; Sharif, Shani; Gentry, Russell; Elder, Jeff. (2014). *Masonry Product Models for Building Information Modeling.* Proceedings of the 9th International Masonry Conference, Guimarães, Portugal. ([PDF](Masonry_Product_Models_for_Building_Info.pdf))
 
 - Sharif, Shani. (2013). *Material Cognition: Designer’s Perception Of Material in a Creative Design Process.* Proceedings of the 17th Conference of the Sociedad Iberoamericana de Gráfica Digital Conference (SiGraDi 2013) , Valparaiso, Chile.   ([Link](http://cumincad.scix.net/cgi-bin/works/Show?_id=sigradi2013_429))
 
