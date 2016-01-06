@@ -1,0 +1,29 @@
+---
+title: "Interactive Blossoms"
+layout: post
+description: "Interactive Blossoms receives  MIT Council for the Arts Grant"
+photo_url: "/pic/blossom5.jpg"
+---
+**Interactive Blossoms receives  MIT Council for the Arts Grant:**
+
+Interactive Blossoms is an interdisciplinary project that integrates ideas derived from interactive behaviors in natural organisms with the art of paper folding, especially deployable origami. The flower-like deployable origami models imitate blooming of plants in nature. In this project, the origami models are equipped with electronic parts to present responsive behaviors to the movement and touch of users in the environment.
+
+
+<p align="center">
+
+	<img src="/pic/blossom6.jpg" width="60%">
+</p>
+
+You can find the full paper here:
+
+Sharif, Shani; Demaine, Martin. (2011) *Interactive Blossoms.* The Fifth International Conference on Tangible, Embedded, and Embodied interaction, TEI’11, Work in Progress Section, Funchal, Portugal.   ([PDF](http://www.tei-conf.org/11/TEI-WIP-final-compressed.pdf))
+
+Watch Interactive Blossoms in action:
+<div align="center"><iframe src="https://player.vimeo.com/video/13844666" width="500" height="331" align="center" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="https://vimeo.com/13844666">Interactive Blossoms</a> from <a href="https://vimeo.com/user4406612">Shani Sharif</a> on <a href="https://vimeo.com">Vimeo</a>.</div>
+
+
+- I would like to thank [Martin Demaine](http://martindemaine.org) from MIT, [Orkan Telhan](http://www.orkantelhan.com) from UPenn, and [Simon D. Guest](http://www3.eng.cam.ac.uk/~sdg/) from University of Cambridge for their contributions in the development of this project.
+
+![](/pic/blossom4.jpg)
+

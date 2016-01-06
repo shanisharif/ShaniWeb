@@ -1,0 +1,14 @@
+---
+title: "Masonry Unit Database"
+layout: post
+description: "Masonry Unit Database (MUD) is an integral part of Building Information Modeling for Masonry (BIM-M) initiative. MUD provides a data structure framework for storing the required data for digital representation of masonry units."
+---
+
+*Masonry Unit Database (MUD) is an integral part of Building Information Modeling for Masonry (BIM-M) initiative. MUD provides a data structure framework for storing the required data for digital representation of masonry units. Specific information about masonry units such as price, geometry and physical properties is needed throughout the lifecycle of a building project, including the design, construction, maintenance, and demolition stages. The development of MUD contributes to enhancement of masonry BIM tools for practitioners to incorporate up-to-date masonry product information into their projects. There are five main stages in the development of MUD: development of process map of masonry building project lifecycle, data requirement identification, physical design of database, design of data import structures, and finally design of data export structures. This paper focuses on the development of the SQL based MUD, and a Revit-Dynamo data export plugin for this database.*
+
+- Sharif, Shani; Gentry, Russll (2015). *BIM for Masonry: Development of BIM Plugins for the Masonry Unit Database.* Real Time - Proceedings of the 33rd Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe 2015), Vienna, Austria   ([Link](http://cumincad.scix.net/cgi-bin/works/Show?_id=ecaade2015_261))
+
+- Sharif, Shani; Gentry, Russell; Eastman, Chuck; Elder, Jeff. (2015). *Masonry Unit Database Development for BIM-Masonry.* Proceedings of the 12th North American Masonry Conference, Denver, Colorado.
+
+- Witthuhn, Tyler; Sharif, Shani; Gentry, Russell; Elder, Jeff. (2014). *Masonry Product Models for Building Information Modeling.* Proceedings of the 9th International Masonry Conference, Guimarães, Portugal.
+

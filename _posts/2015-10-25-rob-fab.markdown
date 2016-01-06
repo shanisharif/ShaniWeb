@@ -6,6 +6,8 @@ photo_url: "/pic/KR120-cover.jpg"
 
 I will be teaching the Robotic Fabrication course in Fall 2016 at GaTech Digital Fabrication Lab for architecture and industrial design graduate students. This is the first time that this course is being offered as we recently got a [Kuka KR 120](http://www.kuka-robotics.com/usa/en/products/industrial_robots/high/pro/kr120_r2500_pro/) for our lab.  and the last couple of months I have been busy developing the syllabus and course materials. I am so excited for the start of the semester. 
 
+The news on GaTech School of Architecture website: (Meet Kuka Robot)[http://www.arch.gatech.edu/hg/item/475511]
+
 Here is a short description of the course:
 
 ##Introduction to Robotic Fabrication (ARCH 8863 – SS)	 
