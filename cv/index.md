@@ -26,7 +26,8 @@ title: Shani Sharif - CV
 <br/>*Research Assistant* (Aug. 2012 - Aug. 2015)
 
 **[Making the Clean Energy City in China](http://energyproforma.mit.edu/webtool3/home)**, MIT, Department of Urban Studies and Planning 
-<br/>*Research Fellow* (Oct. 2010 – Aug. 2011)
+<br/>*Research Fellow* (Oct. 2010 – Aug. 2011) - 
+[Report](http://energyproforma.scripts.mit.edu/documents/MIT_Clean_Energy_City_Year_3_Report.pdf)
 
 **[Mobile Experience Laboratory](http://mobile.mit.edu/)**, Media Lab, MIT,
 <br/>*Research Assistant* (Sep. 2010 – Feb. 2011)
@@ -40,7 +41,7 @@ title: Shani Sharif - CV
 
 ###Teaching
 **Robotic Fabrication**, Georgia Institute of Technology
-<br/>*Course Instructor* (Spring 2016)
+<br/>*Course Instructor* (Spring 2016) [Link](/2015/10/25/rob-fab.html)
 
 **Digital Design and Fabrication Workshop**, [Hanyang University](http://www.hanyang.ac.kr/english/) (Korea) and Georgia Tech
 <br/>*Workshop Instructor* (Summer 2014): Design scripting, digital fabricaion, process modeling
