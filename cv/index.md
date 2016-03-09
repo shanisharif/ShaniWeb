@@ -3,7 +3,7 @@ layout: dirindex
 title: Shani Sharif - CV
 ---
 
-##Education
+### Education
 
 **Georgia Institute of Technology**, School of Architecture, Atlanta, GA 
 <br/> *PhD in Architecture, Design Computation* (2011-present)
@@ -19,8 +19,7 @@ title: Shani Sharif - CV
 
 -----
 
-##Research
-
+### Research
 **[Building Information Modeling for Masonry (BIM-M)](http://www.bimformasonry.org)**, Georgia Tech, Digital Building Laboratory <br/>(PI: Prof. Russell Gentry)
 <br/>*Research Assistant* (Jan. 2014 - Present)
 
@@ -41,8 +40,7 @@ title: Shani Sharif - CV
 
 -----
 
-##Teaching
-
+### Teaching
 **Robotic Fabrication**, Georgia Institute of Technology
 <br/>*Course Instructor* (Spring 2016) [Link](/2015/10/25/rob-fab.html)
 
@@ -70,8 +68,7 @@ title: Shani Sharif - CV
 
 -----
 
-##Publications
-
+### Publications
 - Sharif, Shani; Gentry, Russll (2015). *BIM for Masonry: Development of BIM Plugins for the Masonry Unit Database.* Real Time - Proceedings of the 33rd Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe 2015), Vienna, Austria   ([PDF](ShaniSharif_ecaade2015_261.pdf))
 
 - Sharif, Shani; Gentry, Russell (2015). *Design Cognition Shift from Craftsman to Digital Maker.* Emerging Experience in Past, Present and Future of Digital Architecture, Proceedings of the 20th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2015), Daegu, Korea.   ([PDF](ShaniSharif_caadria2015_208.pdf))
@@ -92,8 +89,7 @@ title: Shani Sharif - CV
 
 -----
 
-##Skills:
-
+### Skills
 - **Programming:** Java, C#, Python, SQL, Matlab
 - **Scripting:** Rhino Script, Processing, Arduino
 - **Parametric modeling:** Dynamo, Grasshopper
