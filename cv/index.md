@@ -6,7 +6,7 @@ title: Shani Sharif - CV
 ### Education
 
 **Georgia Institute of Technology**, School of Architecture, Atlanta, GA 
-<br/> *PhD in Architecture, Design Computation* (2011-present)
+<br/> *PhD in Architecture, Design Computation* (2012-present)
 
 **Massachusetts Institute of Technology**, Department of Architecture, Cambridge, MA 
 <br/>*Master of Science in Architectural Studies (SMArchS), Design and Computation* (2008-2010)
@@ -19,7 +19,9 @@ title: Shani Sharif - CV
 
 -----
 
-### Research
+### Research Experience
+**[Autodesk](http://www.autodesk.com)**, Build Logic Group<br/> *Software Developer Intern AEC* (Jun. - Aug. 2016)
+
 **[Building Information Modeling for Masonry (BIM-M)](http://www.bimformasonry.org)**, Georgia Tech, Digital Building Laboratory <br/>(PI: Prof. Russell Gentry)
 <br/>*Research Assistant* (Jan. 2014 - Present)
 
@@ -40,9 +42,9 @@ title: Shani Sharif - CV
 
 -----
 
-### Teaching
-**Robotic Fabrication**, Georgia Institute of Technology
-<br/>*Course Instructor* (Spring 2016) [Link](/2015/10/25/rob-fab.html)
+### Teaching Experience
+**[Robotic Fabrication](/2015/10/25/rob-fab.html)**, Georgia Institute of Technology
+<br/>*Course Instructor* (Spring and Fall 2016, Spring 2017)
 
 **Digital Design and Fabrication Workshop**, [Hanyang University](http://www.hanyang.ac.kr/english/) (Korea) and Georgia Tech
 <br/>*Workshop Instructor* (Summer 2014): Design scripting, digital fabricaion, process modeling
@@ -69,6 +71,10 @@ title: Shani Sharif - CV
 -----
 
 ### Publications
+- Sharif, Shani; Gentry, Russll; Sweet, Larry (2016). *Human-Robot Collaboration for Creative and Integrated Design and Fabrication Processes.* 33rd International Symposium on Automation and Robotics in Construction (ISARC 2016), Alabama, USA ([PDF](http://www.iaarc.org/publications/fulltext/ISARC2016-Paper112.pdf))
+
+- Gentry, Russll; Sharif, Shani; Cavieres, Andres; Biggs, David (2016) *BIM schema for masonry units and walls* Brick and Block Masonry, Proceedings of the 16th International Brick and Block Masonry Conference ([PDF](bim-schema-for-masonry-units-and-walls.pdf))
+
 - Sharif, Shani; Gentry, Russll (2015). *BIM for Masonry: Development of BIM Plugins for the Masonry Unit Database.* Real Time - Proceedings of the 33rd Education and Research in Computer Aided Architectural Design in Europe Conference (eCAADe 2015), Vienna, Austria   ([PDF](ShaniSharif_ecaade2015_261.pdf))
 
 - Sharif, Shani; Gentry, Russell (2015). *Design Cognition Shift from Craftsman to Digital Maker.* Emerging Experience in Past, Present and Future of Digital Architecture, Proceedings of the 20th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2015), Daegu, Korea.   ([PDF](ShaniSharif_caadria2015_208.pdf))
@@ -90,11 +96,10 @@ title: Shani Sharif - CV
 -----
 
 ### Skills
-- **Programming:** Java, C#, Python, SQL, Matlab
+- **Programming:** C#, Python, Java, .NET, IronPython, SQL, Matlab
 - **Scripting:** Rhino Script, Processing, Arduino
 - **Parametric modeling:** Dynamo, Grasshopper
-- **Web development:** HTML, Microsoft .NET and MS SQL Server
-- **CAD and BIM:** Revit, AutoCAD, Rhino, 3D Max, SketchUp
+- **CAD and BIM:** Revit, AutoCAD, Rhino, Solidworks, Fusion 360, 3D Max, SketchUp
 - **Graphic and video:** Adobe Photoshop and Illustrator, Final Cut Pro, MS Office
 - **Digital Fabrication and CAM:** Kuka industrial robots (KR C4), CNC milling, Water-jet cutter, Plasma cutter, laser cutter, AlphaCAM 
 
