@@ -1,0 +1,29 @@
+---
+title: "Architecture Grad Student Places 2nd in Poster Competition"
+layout: post
+description: "Shani Sharif, a Ph.D. student in the School of Architecture, this spring presented a research poster at the National Network for Manufacturing Innovation (NNMI) Student Poster Competition and won second prize."
+---
+
+[Georgia Tech, College of Design News](http://www.design.gatech.edu/news/architecture-grad-student-places-2nd-poster-competition-0)
+
+Shani Sharif, a Ph.D. student in the School of Architecture, this spring presented a research poster at the National Network for Manufacturing Innovation (NNMI) Student Poster Competition and won second prize.
+
+The contest was a two-day event held at the Global Learning Center involving students in robotics and computing.
+
+The poster detailed recent research on the integration of robotics and design. The research goal was to “develop a workflow to create an effective collaboration process between human designers and industrial robots.” 
+
+Currently, industrial robots are used for mass production and performing repetitive tasks. In the current system the robot is programmed before the start of the fabrication process. Sharif’s proposal looked at ways for the robot to be more interactive with the operator, allowing the operator to receive feedback from sensors and update the robot motion program during the fabrication process. 
+
+To accomplish the goal, they will use “real-time feedback from sensors and 3D scanners during [the] fabrication process, and integrate it into the design model."
+
+The College’s Digital Fabrication Lab worked in collaboration with the Institute for Robotics and Intelligent Machines (IRIM).
+
+Shani also worked with Larry Sweet of IRIM and Russell Gentry. Gentry is an associate professor in the School of Architecture with a courtesy appointment in the School of Civil and Environmental Engineering. Sweet is a professor of the practice in robotics and associate director of technology transition in the Institute for Robotics and Intelligent Machines.
+
+Sharif is an architect and researcher, pursuing doctoral studies in Computational Design at the School of Architecture. In the spring semester she taught the Introduction to Robotic Fabrication course, where students learned “to program the robot to move, create custom tools for use, understand the capabilities and constraints of working with these tools, and how to integrate these new learning processes in their designs.”
+
+She will be teaching the course again to undergraduate and graduate students in the coming school year.
+
+She worked with the Kuka Robot, acquired by the Digital Fabrication Lab in the fall of 2015.
+
+![NNMI Poster](/pic/NNMI_Poster.jpg)
