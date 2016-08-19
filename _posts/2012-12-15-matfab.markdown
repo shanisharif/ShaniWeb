@@ -1,0 +1,10 @@
+---
+title: "Materials & Fabrication"
+layout: post
+photo_url: "/pic/matfab-cover.jpg"
+---
+##Exploring Materials, Fabrication and Systems
+
+![Materials & Fabrication](/pic/matfab01.jpg)
+
+![Materials & Fabrication](/pic/matfab02.jpg)
